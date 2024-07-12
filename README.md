@@ -1,4 +1,4 @@
-# PostgreSQL Oracle Cloud Server Setup and Configuration using pgAdmin
+# PostgreSQL Oracle Cloud Server Setup and Configuration using ubuntu and pgAdmin
 
 This README provides the steps to set up and configure a PostgreSQL server using pgAdmin on Oracle Cloud and linux server. Follow these instructions to ensure your PostgreSQL server is up and running.
 
